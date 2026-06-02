@@ -170,7 +170,7 @@ Threshold: p < 0.05 (two-tailed)
 
 **Result:** 26 wells (4.9%) show statistically significant decline.
 
-**Top 3 most significant wells:
+**Top 3 most significant wells:**
 
 | Well                                    | Field            | D    | Z-Score | P-Value |
 |:---------------------------------------:|:----------------:|:-----|:--------|:--------|
