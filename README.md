@@ -225,6 +225,9 @@ Based on the statistical findings, the following actions are recommended for the
 
 ---
 
+![Interact with the dashboard here](![](https://github.com/oluwagbemiga01/Well-Health-Monitor/blob/main/Well%20Health%20dashboard.png))
+
+
 *Analysis by Oluwagbemiga Agbeje - Energy Data Analyst*
 
 
